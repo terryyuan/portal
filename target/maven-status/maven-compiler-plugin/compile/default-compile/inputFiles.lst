@@ -1,4 +1,6 @@
-/Users/terry/Documents/workspace1/portal/src/main/java/com/zsh/config/spring/AppInitializer.java
-/Users/terry/Documents/workspace1/portal/src/main/java/com/zsh/config/spring/WebMvcConfig.java
-/Users/terry/Documents/workspace1/portal/src/main/java/com/zsh/controller/IndexController.java
-/Users/terry/Documents/workspace1/portal/src/main/java/com/zsh/config/spring/AppConfig.java
+/Users/terry/git/portal/src/main/java/com/zsh/config/spring/ViewConfiguration.java
+/Users/terry/git/portal/src/main/java/com/zsh/config/spring/AppConfig.java
+/Users/terry/git/portal/src/main/java/com/zsh/config/spring/AppInitializer.java
+/Users/terry/git/portal/src/main/java/com/zsh/config/spring/WebMvcConfig.java
+/Users/terry/git/portal/src/main/java/com/zsh/controller/IndexController.java
+/Users/terry/git/portal/src/main/java/com/zsh/config/spring/SpringMVC.java
